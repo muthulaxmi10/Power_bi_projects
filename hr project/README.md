@@ -16,3 +16,5 @@ The primary objective of this HR Analytics Dashboard is to:
 •	Dashboard shows KPIs, donut (education), bar (age, salary, role), line (tenure), gender cards, and interactive filters for insights.
 
 
+![HR Dashboard](https://github.com/muthulaxmi10/Power_bi_projects/blob/main/hr%20project/Hr%20Dashboard.png?raw=true)
+
