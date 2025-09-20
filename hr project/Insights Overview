@@ -1,1 +1,18 @@
+HR Data Analytics: Employee Retention & Attrition Trends
+1. Problem Statement
+Organizations face challenges in managing employee retention and understanding the factors behind attrition. High attrition rates not only increase recruitment costs but also affect productivity and employee morale. The company needs a data-driven approach to:
+•	Identify trends in employee attrition.
+•	Understand demographic and job-related factors contributing to employee turnover.
+•	Support HR in designing strategies to improve employee satisfaction and retention.
+2. Objective
+The primary objective of this HR Analytics Dashboard is to:
+•	Monitor overall workforce statistics, including headcount, attrition count, attrition rate, average age, salary, and tenure.
+•	Analyze attrition patterns across multiple dimensions such as education, age, salary slab, years at company, gender, and job role.
+•	Provide actionable insights for HR managers and business leaders to make informed decisions on employee engagement, workforce planning, and retention strategies.
+•	Executive Summary (One-Liner)
+•	1,473 employees with 237 attrition (16.1%); most attrition seen in 26–35 age group, low salary (<₹5k), and roles in Life Sciences, Medical, and Sales; higher among males.
+
+•	Key Features (One-Liner)
+•	Dashboard shows KPIs, donut (education), bar (age, salary, role), line (tenure), gender cards, and interactive filters for insights.
+
 
