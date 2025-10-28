@@ -2,7 +2,8 @@
 
 ## 1️⃣ Data Model — Star Schema Design
 
-![DMart Data Model](Screenshot%20(388).png
+![DMart Data Model](C:/Users/intel/Pictures/Screenshots/Screenshot%20(423).png)
+
 
 ### 🧩 Explanation
 The above image represents the **Data Model** used for the DMart Sales Analysis Dashboard.  
