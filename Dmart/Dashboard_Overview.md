@@ -2,7 +2,8 @@
 
 ## 1️⃣ Data Model — Star Schema Design
 
-![Data Model](images/Dimension image.png)
+![Data Model](Dimension%20image.png)
+
 
 
 ### 🧩 Explanation
