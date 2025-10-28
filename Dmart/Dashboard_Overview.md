@@ -2,7 +2,7 @@
 
 ## 1️⃣ Data Model — Star Schema Design
 
-![DMart Data Model](C:/Users/intel/Pictures/Screenshots/Dimension image.png)
+![Data Model](images/Dimension image.png)
 
 
 ### 🧩 Explanation
