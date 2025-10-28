@@ -22,7 +22,7 @@ It follows a **Star Schema** structure, which includes:
 
 ## 2️⃣ Power BI Dashboard — DMart Sales Performance
 
-![DMart Sales Dashboard](Screenshot%20(423).png)
+![DMart Sales Dashboard](Dashboard_image.png)
 
 ### 💡 Dashboard Explanation
 This dashboard provides a **360° view of DMart’s business performance** through interactive visuals.
