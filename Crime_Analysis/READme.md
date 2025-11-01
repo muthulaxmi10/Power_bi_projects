@@ -1,4 +1,4 @@
-🕵️‍♂️ Crime Rate Analysis Dashboard
+**🕵️‍♂️ Crime Rate Analysis Dashboard**
 🎯 Objective
 
 The main objectives of this project are:
