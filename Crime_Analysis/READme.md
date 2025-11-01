@@ -1,7 +1,8 @@
 ****🕵️‍♂️ Crime Rate Analysis Dashboard****
 
 ![Crime Dashboard](crime.jpg)
-🎯 Objective
+
+**🎯 Objective**
 
 **The main objectives of this project are:**
 
