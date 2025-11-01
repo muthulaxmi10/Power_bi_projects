@@ -1,0 +1,501 @@
+Crime_ID,Date,Country,State,City,Crime_Type,Victim_Gender,Victim_Age,Suspect_Gender,Arrest_Made,Crime_Status,Purpose_of_Crime,Reporting_Agency,Latitude,Longitude
+CR0001,2023-02-05,Korea,Alaska,South Garyview,Assault,Female,58,Other,Yes,Under Investigation,Greed,Korea Police Department,20.5731135,-142.917715
+CR0002,2023-09-07,Korea,South Dakota,West Scott,Burglary,Female,41,Male,No,Under Investigation,Cyber Gain,Korea Police Department,51.998219,166.265243
+CR0003,2022-12-09,Bangladesh,Pennsylvania,New Edward,Drug Offense,Female,42,Female,Yes,Open,Domestic Dispute,Bangladesh Police Department,-16.2567465,-12.813148
+CR0004,2025-08-16,United States,Montana,Russoberg,Kidnapping,Female,21,Other,Yes,Under Investigation,Cyber Gain,United States Police Department,39.384745,-6.656217
+CR0005,2023-06-27,Korea,Mississippi,Weavermouth,Drug Offense,Other,79,Male,No,Under Investigation,Revenge,Korea Police Department,66.6749535,31.576909
+CR0006,2023-03-15,India,Nevada,North Richard,Kidnapping,Female,31,Female,Yes,Closed,Greed,India Police Department,83.289533,-43.363883
+CR0007,2023-01-16,China,Kentucky,East Cindy,Drug Offense,Male,68,Other,No,Open,Cyber Gain,China Police Department,74.3566875,135.836516
+CR0008,2024-01-02,Bangladesh,Maine,Thorntontown,Theft,Female,66,Female,No,Closed,Serial Killer,Bangladesh Police Department,-53.1784725,-48.716958
+CR0009,2025-01-29,India,Pennsylvania,South Joshuafort,Kidnapping,Female,24,Female,Yes,Open,Cyber Gain,India Police Department,74.2899015,104.671051
+CR0010,2025-06-13,Bangladesh,New Mexico,North Daniel,Burglary,Male,65,Female,Yes,Closed,Domestic Dispute,Bangladesh Police Department,-22.724605,138.385647
+CR0011,2025-01-26,Bangladesh,North Carolina,Annmouth,Assault,Female,72,Male,Yes,Open,Political Motive,Bangladesh Police Department,-4.682695,103.409084
+CR0012,2023-12-13,Pakistan,Oklahoma,New Ellen,Theft,Female,65,Other,No,Under Investigation,Serial Killer,Pakistan Police Department,-88.0871645,-95.460297
+CR0013,2024-08-27,China,Hawaii,Wilsonbury,Theft,Other,69,Female,Yes,Under Investigation,Cyber Gain,China Police Department,-47.6419165,-18.568532
+CR0014,2022-10-20,United States,Rhode Island,Jacobborough,Theft,Male,54,Male,No,Under Investigation,Serial Killer,United States Police Department,-24.8709955,40.334104
+CR0015,2025-09-29,Korea,New Mexico,Johnsonbury,Drug Offense,Other,23,Other,No,Closed,Religious Conversion,Korea Police Department,50.676523,-26.203595
+CR0016,2025-07-28,United States,South Dakota,Ericaland,Theft,Male,21,Other,No,Closed,Political Motive,United States Police Department,14.505179,-23.033075
+CR0017,2023-12-18,Pakistan,Colorado,East Cody,Murder,Female,41,Other,Yes,Open,Revenge,Pakistan Police Department,53.9406065,116.461225
+CR0018,2023-01-26,United States,Illinois,East Jeremy,Kidnapping,Male,58,Male,No,Under Investigation,Religious Conversion,United States Police Department,24.680921,106.503133
+CR0019,2025-04-13,India,Kansas,Victoriaside,Murder,Male,27,Male,No,Under Investigation,Cyber Gain,India Police Department,-23.6547555,-41.716689
+CR0020,2025-05-26,Bangladesh,Hawaii,Brandonberg,Cybercrime,Female,19,Female,Yes,Open,Religious Conversion,Bangladesh Police Department,31.824593,-52.435413
+CR0021,2024-03-07,Pakistan,Kentucky,Lake Anita,Cybercrime,Male,72,Other,No,Under Investigation,Greed,Pakistan Police Department,-39.1767455,76.189845
+CR0022,2024-05-31,Korea,South Carolina,Port Terri,Theft,Female,68,Female,No,Under Investigation,Lust,Korea Police Department,-73.182318,-122.887158
+CR0023,2024-08-27,Pakistan,Maryland,Lake Jameston,Burglary,Female,12,Other,No,Closed,Lust,Pakistan Police Department,88.790399,26.124876
+CR0024,2025-05-25,China,Montana,Rodriguezton,Murder,Female,64,Female,Yes,Under Investigation,Domestic Dispute,China Police Department,-77.5070125,-176.824448
+CR0025,2024-06-05,Korea,Missouri,Smithville,Murder,Female,46,Female,No,Closed,Lust,Korea Police Department,49.029245,112.646261
+CR0026,2024-09-11,Pakistan,Oklahoma,North Ginahaven,Drug Offense,Male,38,Female,Yes,Open,Domestic Dispute,Pakistan Police Department,-33.6605105,-24.787867
+CR0027,2022-10-13,Pakistan,Missouri,Lake Hector,Murder,Female,41,Female,Yes,Under Investigation,Lust,Pakistan Police Department,-24.930418,-20.242891
+CR0028,2024-05-01,Bangladesh,New Jersey,Lake Josephhaven,Theft,Male,66,Female,No,Under Investigation,Political Motive,Bangladesh Police Department,-80.009289,156.598389
+CR0029,2024-11-21,China,Arizona,Thompsonshire,Drug Offense,Male,24,Female,No,Closed,Lust,China Police Department,-76.7789375,-66.958660
+CR0030,2024-09-05,United States,Nevada,Olsonfurt,Cybercrime,Female,38,Female,Yes,Closed,Revenge,United States Police Department,-48.867448,-49.301444
+CR0031,2023-09-13,India,Alabama,Ingramside,Fraud,Male,67,Other,Yes,Closed,Greed,India Police Department,41.273996,27.362843
+CR0032,2025-06-24,United States,Washington,Avilaside,Murder,Other,22,Male,Yes,Open,Domestic Dispute,United States Police Department,-11.672572,-64.681128
+CR0033,2023-05-29,United States,Mississippi,New Valerie,Drug Offense,Female,31,Other,No,Closed,Political Motive,United States Police Department,-16.4949665,-158.008452
+CR0034,2023-11-06,India,Arkansas,New Stephanie,Cybercrime,Male,61,Other,No,Closed,Revenge,India Police Department,-68.5886065,-166.597910
+CR0035,2025-09-16,China,Oklahoma,North William,Theft,Female,72,Other,Yes,Open,Cyber Gain,China Police Department,63.335893,-113.619960
+CR0036,2024-11-20,China,Connecticut,South Paul,Fraud,Male,26,Male,Yes,Open,Religious Conversion,China Police Department,-74.743327,-134.195467
+CR0037,2025-03-09,Bangladesh,North Carolina,Pageberg,Drug Offense,Male,40,Female,Yes,Closed,Political Motive,Bangladesh Police Department,-11.0657395,60.509650
+CR0038,2024-10-09,Pakistan,Oklahoma,Port Elizabeth,Fraud,Male,46,Other,Yes,Under Investigation,Revenge,Pakistan Police Department,-60.9995295,-21.802166
+CR0039,2023-03-26,Bangladesh,Mississippi,Matthewbury,Murder,Male,18,Female,Yes,Closed,Greed,Bangladesh Police Department,16.994460,58.808713
+CR0040,2025-06-17,India,Idaho,Lake Timothymouth,Assault,Female,12,Male,Yes,Open,Political Motive,India Police Department,11.419248,24.717522
+CR0041,2024-10-29,Korea,New Jersey,North Alexandria,Kidnapping,Other,18,Other,Yes,Under Investigation,Revenge,Korea Police Department,23.9974905,-155.929011
+CR0042,2023-12-02,India,Pennsylvania,Michaelberg,Kidnapping,Female,25,Female,Yes,Open,Religious Conversion,India Police Department,43.9900745,-87.071237
+CR0043,2023-07-08,United States,Rhode Island,Bobfurt,Cybercrime,Female,36,Other,Yes,Under Investigation,Religious Conversion,United States Police Department,73.029454,-83.608134
+CR0044,2024-07-13,Pakistan,Wyoming,West Edwardshire,Kidnapping,Female,39,Other,No,Open,Cyber Gain,Pakistan Police Department,46.8989265,-169.757355
+CR0045,2025-07-01,United States,Oklahoma,East Gavinborough,Theft,Female,52,Female,No,Under Investigation,Greed,United States Police Department,-84.6383135,-156.703879
+CR0046,2023-05-23,China,Missouri,Annastad,Kidnapping,Other,74,Female,No,Open,Political Motive,China Police Department,83.125314,-79.729535
+CR0047,2024-03-12,United States,Nevada,Russellland,Theft,Other,58,Female,No,Under Investigation,Cyber Gain,United States Police Department,56.748223,-141.748162
+CR0048,2024-02-22,China,South Dakota,East Rebecca,Cybercrime,Other,16,Other,No,Closed,Cyber Gain,China Police Department,79.801271,-35.080428
+CR0049,2024-01-03,China,Montana,Anthonyview,Drug Offense,Male,54,Other,No,Under Investigation,Cyber Gain,China Police Department,9.8462865,59.532468
+CR0050,2025-07-24,India,North Carolina,Lake Lisaton,Murder,Male,12,Female,No,Under Investigation,Religious Conversion,India Police Department,61.4543505,-60.677872
+CR0051,2023-01-12,India,Delaware,West Thomas,Kidnapping,Female,42,Female,Yes,Closed,Lust,India Police Department,-65.7600425,31.297584
+CR0052,2023-06-06,India,Virginia,East Stevenburgh,Fraud,Male,76,Female,No,Under Investigation,Greed,India Police Department,13.035127,67.759106
+CR0053,2025-05-07,Pakistan,Iowa,Kevinstad,Fraud,Other,28,Other,No,Under Investigation,Political Motive,Pakistan Police Department,31.579499,84.130814
+CR0054,2023-10-07,United States,Kansas,New Melissashire,Drug Offense,Other,72,Other,Yes,Closed,Lust,United States Police Department,29.767884,-4.646648
+CR0055,2023-09-04,Korea,Delaware,Port Madison,Murder,Female,78,Male,No,Under Investigation,Cyber Gain,Korea Police Department,0.0865665,97.116507
+CR0056,2024-12-29,United States,Wyoming,Lake Laurabury,Murder,Female,80,Other,Yes,Open,Cyber Gain,United States Police Department,80.9625995,-57.854964
+CR0057,2023-08-02,Korea,West Virginia,South Danielle,Murder,Female,29,Female,No,Closed,Religious Conversion,Korea Police Department,8.385179,173.414763
+CR0058,2023-06-15,Pakistan,Alaska,West Phillip,Fraud,Female,31,Female,No,Under Investigation,Revenge,Pakistan Police Department,46.026750,-126.651173
+CR0059,2025-06-22,China,Nebraska,South Rebeccaton,Cybercrime,Male,51,Male,Yes,Open,Greed,China Police Department,24.1065605,92.409390
+CR0060,2024-11-23,Pakistan,Connecticut,Loweborough,Cybercrime,Male,12,Other,Yes,Closed,Revenge,Pakistan Police Department,-24.146656,-137.353672
+CR0061,2024-12-28,United States,New York,Carrton,Cybercrime,Female,30,Other,No,Under Investigation,Revenge,United States Police Department,23.9854375,66.201272
+CR0062,2025-03-14,India,Utah,West Thomas,Kidnapping,Male,30,Other,Yes,Open,Revenge,India Police Department,20.1382715,-53.109155
+CR0063,2025-01-14,United States,North Dakota,South Ericaside,Assault,Other,60,Female,No,Open,Political Motive,United States Police Department,61.3164785,-176.497364
+CR0064,2023-10-11,United States,Colorado,Hayeschester,Theft,Male,21,Male,Yes,Open,Religious Conversion,United States Police Department,14.9207305,-65.597598
+CR0065,2022-10-13,Bangladesh,Maryland,South Kristinberg,Kidnapping,Male,77,Male,No,Open,Lust,Bangladesh Police Department,24.069239,120.364688
+CR0066,2023-11-25,United States,Michigan,South Sierra,Burglary,Female,26,Male,No,Under Investigation,Lust,United States Police Department,61.891779,-129.872810
+CR0067,2022-10-13,Bangladesh,Nebraska,Port Tina,Murder,Male,68,Female,No,Under Investigation,Domestic Dispute,Bangladesh Police Department,83.103914,-120.508376
+CR0068,2023-04-30,Pakistan,Kentucky,Oscarfort,Theft,Other,13,Other,Yes,Under Investigation,Lust,Pakistan Police Department,35.3258065,-51.112903
+CR0069,2024-07-16,India,North Dakota,East Christopherfort,Cybercrime,Female,74,Other,Yes,Open,Domestic Dispute,India Police Department,-21.9383335,-75.549431
+CR0070,2025-03-15,United States,Arkansas,South Christychester,Burglary,Other,77,Male,Yes,Closed,Revenge,United States Police Department,-30.905542,16.406195
+CR0071,2023-10-24,Pakistan,Louisiana,Samanthachester,Murder,Female,56,Male,No,Open,Religious Conversion,Pakistan Police Department,-85.056198,-22.338512
+CR0072,2024-05-09,Korea,Maryland,Willistown,Theft,Female,80,Female,Yes,Closed,Serial Killer,Korea Police Department,-27.4145225,157.053171
+CR0073,2023-06-01,United States,New York,North Michael,Fraud,Female,47,Female,Yes,Open,Domestic Dispute,United States Police Department,-48.335137,27.990570
+CR0074,2024-02-22,Bangladesh,Nevada,Jamesfurt,Theft,Female,12,Other,No,Open,Cyber Gain,Bangladesh Police Department,51.8836455,8.984299
+CR0075,2024-06-03,India,Wisconsin,Castroborough,Theft,Male,35,Other,No,Under Investigation,Serial Killer,India Police Department,62.127886,-147.878861
+CR0076,2024-09-29,Korea,Washington,New Kevin,Drug Offense,Female,36,Other,Yes,Closed,Lust,Korea Police Department,-64.172546,168.492126
+CR0077,2023-01-04,Pakistan,North Dakota,Dawnfurt,Burglary,Other,40,Female,No,Open,Religious Conversion,Pakistan Police Department,67.514894,-130.877116
+CR0078,2024-10-31,Korea,Illinois,Gravesbury,Kidnapping,Female,12,Male,No,Open,Religious Conversion,Korea Police Department,69.466221,-59.704368
+CR0079,2023-04-15,Korea,Iowa,Charleston,Fraud,Male,37,Female,No,Closed,Domestic Dispute,Korea Police Department,-89.215987,-12.839589
+CR0080,2025-04-08,United States,Montana,Kellyfort,Burglary,Female,69,Female,No,Open,Lust,United States Police Department,53.761958,-115.331748
+CR0081,2023-11-29,Bangladesh,Maine,Arthurchester,Kidnapping,Female,53,Female,Yes,Open,Religious Conversion,Bangladesh Police Department,-89.967273,-54.699896
+CR0082,2024-06-27,Pakistan,Kansas,Port Sarah,Theft,Male,44,Female,Yes,Under Investigation,Serial Killer,Pakistan Police Department,11.8906005,112.497612
+CR0083,2023-09-06,Pakistan,Indiana,Jamesshire,Cybercrime,Male,44,Female,No,Closed,Greed,Pakistan Police Department,-63.0643745,65.760206
+CR0084,2022-12-29,Korea,Maryland,Marychester,Cybercrime,Female,47,Female,Yes,Open,Domestic Dispute,Korea Police Department,-51.1537615,136.489790
+CR0085,2025-07-16,United States,Tennessee,South Matthew,Fraud,Female,77,Female,Yes,Closed,Political Motive,United States Police Department,89.763827,-70.825761
+CR0086,2023-09-12,China,California,New Steventown,Theft,Female,49,Male,No,Open,Domestic Dispute,China Police Department,-50.7386175,-117.371711
+CR0087,2024-09-28,Bangladesh,Pennsylvania,Port Aaronburgh,Burglary,Male,32,Female,Yes,Under Investigation,Cyber Gain,Bangladesh Police Department,40.6639445,147.482488
+CR0088,2025-03-27,China,New Jersey,West Christophertown,Assault,Other,18,Male,Yes,Open,Greed,China Police Department,50.7152425,28.378795
+CR0089,2023-07-28,India,Florida,North Matthew,Kidnapping,Other,16,Male,Yes,Under Investigation,Religious Conversion,India Police Department,-54.0910085,171.888857
+CR0090,2025-06-04,United States,Illinois,South Krystal,Cybercrime,Female,50,Female,No,Under Investigation,Lust,United States Police Department,30.6794155,-90.574142
+CR0091,2023-10-08,Pakistan,Maine,East Ericland,Theft,Female,66,Other,No,Open,Lust,Pakistan Police Department,17.4490975,-142.079566
+CR0092,2025-09-01,China,Wisconsin,East Lisachester,Kidnapping,Other,47,Male,No,Open,Religious Conversion,China Police Department,9.4510765,-109.807065
+CR0093,2025-01-22,Pakistan,New Jersey,Heatherhaven,Burglary,Male,41,Female,Yes,Closed,Cyber Gain,Pakistan Police Department,53.4997135,-149.179061
+CR0094,2024-07-11,India,Minnesota,Greenport,Theft,Male,72,Female,Yes,Open,Greed,India Police Department,61.5081745,111.372691
+CR0095,2024-03-10,India,Texas,Lake Shelby,Murder,Male,17,Male,Yes,Open,Greed,India Police Department,71.1280555,81.710180
+CR0096,2025-05-09,India,Massachusetts,New Abigailview,Assault,Male,18,Other,Yes,Open,Greed,India Police Department,44.0377285,-149.959739
+CR0097,2024-05-22,India,Connecticut,Smithview,Kidnapping,Male,80,Female,Yes,Under Investigation,Revenge,India Police Department,20.822701,-48.036337
+CR0098,2023-09-17,Bangladesh,Arizona,Christinemouth,Cybercrime,Male,25,Male,No,Open,Domestic Dispute,Bangladesh Police Department,-36.309290,-129.208964
+CR0099,2025-02-16,United States,Illinois,New Heidibury,Kidnapping,Other,32,Female,No,Closed,Lust,United States Police Department,-2.7703325,-82.385060
+CR0100,2024-09-01,Korea,North Dakota,Bryanview,Drug Offense,Female,63,Female,No,Closed,Religious Conversion,Korea Police Department,-40.8539175,37.229228
+CR0101,2024-10-16,India,Maine,North Elizabethport,Drug Offense,Other,66,Male,Yes,Open,Domestic Dispute,India Police Department,-83.693743,46.953973
+CR0102,2025-08-10,United States,Oregon,Clarkton,Cybercrime,Other,29,Female,No,Closed,Domestic Dispute,United States Police Department,-24.1716615,88.472403
+CR0103,2024-10-31,Korea,Arizona,Mckenzieview,Cybercrime,Female,66,Male,No,Closed,Religious Conversion,Korea Police Department,6.7659565,125.942409
+CR0104,2023-02-03,Bangladesh,Montana,Patrickmouth,Fraud,Female,28,Female,No,Closed,Cyber Gain,Bangladesh Police Department,-78.541837,-115.444511
+CR0105,2023-04-23,India,Wyoming,West Madison,Assault,Female,29,Male,No,Open,Political Motive,India Police Department,-3.022889,-161.201546
+CR0106,2025-03-31,China,Texas,Lake Larry,Cybercrime,Male,45,Other,No,Closed,Domestic Dispute,China Police Department,12.1301825,-24.899747
+CR0107,2023-06-04,Korea,Ohio,East Nicholasside,Kidnapping,Other,58,Male,No,Open,Political Motive,Korea Police Department,84.5116505,-129.608921
+CR0108,2023-08-11,Pakistan,Arizona,Port Micheleside,Theft,Female,39,Other,Yes,Open,Revenge,Pakistan Police Department,-31.753264,0.089548
+CR0109,2025-04-26,United States,Florida,East Darrylville,Drug Offense,Female,74,Other,No,Open,Serial Killer,United States Police Department,-56.4282715,-108.116103
+CR0110,2025-01-04,Bangladesh,Idaho,East Robert,Cybercrime,Other,57,Female,Yes,Under Investigation,Cyber Gain,Bangladesh Police Department,60.299981,100.683700
+CR0111,2023-08-27,China,Montana,West Keithville,Kidnapping,Other,44,Female,No,Closed,Greed,China Police Department,25.978944,-144.232703
+CR0112,2023-06-06,Korea,Hawaii,East Amy,Cybercrime,Other,13,Female,Yes,Under Investigation,Political Motive,Korea Police Department,-38.6756935,165.740541
+CR0113,2022-11-23,United States,Wisconsin,Brianburgh,Kidnapping,Male,21,Other,Yes,Open,Political Motive,United States Police Department,34.5586655,-122.974730
+CR0114,2025-01-29,Bangladesh,Georgia,West Omarfort,Drug Offense,Male,58,Female,No,Open,Religious Conversion,Bangladesh Police Department,-11.6996065,53.136356
+CR0115,2025-01-20,India,New York,Pennyland,Kidnapping,Other,36,Other,Yes,Under Investigation,Cyber Gain,India Police Department,69.0523825,-51.375336
+CR0116,2025-10-06,Pakistan,Nebraska,Wellsberg,Cybercrime,Male,37,Female,Yes,Open,Lust,Pakistan Police Department,46.637713,-86.505340
+CR0117,2024-08-18,Bangladesh,New Hampshire,New Gabrielstad,Theft,Female,28,Male,No,Open,Lust,Bangladesh Police Department,-14.4596555,-173.572916
+CR0118,2024-05-11,United States,Rhode Island,Clarkburgh,Kidnapping,Male,66,Other,Yes,Under Investigation,Cyber Gain,United States Police Department,-31.974947,155.861567
+CR0119,2024-10-17,Pakistan,New Hampshire,North Dianestad,Theft,Female,40,Female,Yes,Under Investigation,Domestic Dispute,Pakistan Police Department,21.6669235,105.665453
+CR0120,2024-07-18,Korea,Alaska,Gabrielberg,Cybercrime,Male,28,Male,No,Open,Domestic Dispute,Korea Police Department,15.720448,168.302399
+CR0121,2024-01-23,United States,South Carolina,Port Michaelland,Burglary,Male,31,Female,Yes,Closed,Domestic Dispute,United States Police Department,-87.800273,174.506564
+CR0122,2024-03-19,India,Georgia,New Tina,Fraud,Other,41,Female,Yes,Open,Political Motive,India Police Department,-62.313504,-51.119368
+CR0123,2024-05-25,Pakistan,Indiana,Coxchester,Assault,Male,71,Male,Yes,Open,Lust,Pakistan Police Department,8.2282355,29.014494
+CR0124,2024-06-10,Bangladesh,New Jersey,Mooreton,Theft,Female,29,Male,Yes,Under Investigation,Lust,Bangladesh Police Department,-20.8505305,120.680172
+CR0125,2025-02-15,Pakistan,Connecticut,Reyesfurt,Fraud,Male,18,Female,No,Open,Serial Killer,Pakistan Police Department,-85.029461,-12.123329
+CR0126,2023-04-02,Korea,Kentucky,West Tylerbury,Burglary,Other,11,Female,No,Open,Serial Killer,Korea Police Department,81.816478,35.758019
+CR0127,2025-07-11,China,New Hampshire,Port Craigburgh,Burglary,Female,18,Other,No,Under Investigation,Religious Conversion,China Police Department,-83.161606,93.774496
+CR0128,2023-05-30,China,Indiana,Port Stephenhaven,Murder,Female,12,Other,No,Closed,Religious Conversion,China Police Department,-84.0303165,-36.572649
+CR0129,2024-10-03,China,North Carolina,Snyderport,Cybercrime,Female,42,Male,No,Open,Greed,China Police Department,-8.7068575,150.707973
+CR0130,2023-10-18,United States,Wisconsin,New Douglasport,Burglary,Other,71,Other,No,Open,Political Motive,United States Police Department,34.456543,-89.683329
+CR0131,2023-12-01,Pakistan,Michigan,Martinview,Burglary,Male,40,Male,Yes,Open,Lust,Pakistan Police Department,-79.582246,-12.583337
+CR0132,2025-06-16,Korea,Minnesota,Snyderberg,Assault,Other,53,Other,Yes,Open,Greed,Korea Police Department,-21.4326315,-1.943393
+CR0133,2023-01-09,Pakistan,Kentucky,New Tiffanyfurt,Cybercrime,Female,49,Other,No,Closed,Religious Conversion,Pakistan Police Department,-59.3181715,-111.400643
+CR0134,2024-09-18,India,Alaska,Justinborough,Fraud,Female,50,Female,No,Closed,Religious Conversion,India Police Department,71.441594,122.353956
+CR0135,2025-05-18,Pakistan,Ohio,Bettychester,Assault,Male,23,Female,No,Under Investigation,Greed,Pakistan Police Department,9.6836095,107.424496
+CR0136,2023-11-20,Korea,Colorado,Burnsville,Drug Offense,Male,27,Female,No,Open,Lust,Korea Police Department,11.598301,38.981075
+CR0137,2024-04-03,Bangladesh,Idaho,Nicholasberg,Burglary,Male,39,Other,No,Under Investigation,Lust,Bangladesh Police Department,62.436136,-6.037384
+CR0138,2025-08-23,China,New York,Patriciafurt,Drug Offense,Female,11,Male,No,Under Investigation,Domestic Dispute,China Police Department,78.9455815,-169.934336
+CR0139,2025-08-26,China,New Hampshire,Lake Amberbury,Fraud,Male,37,Male,No,Under Investigation,Religious Conversion,China Police Department,-82.5216295,-2.808024
+CR0140,2025-08-11,Korea,Florida,Lake Carolynfurt,Kidnapping,Female,49,Female,No,Closed,Greed,Korea Police Department,36.9773435,6.000707
+CR0141,2024-11-19,Pakistan,Rhode Island,Anthonyshire,Murder,Male,41,Male,No,Closed,Revenge,Pakistan Police Department,-35.5721745,-74.019737
+CR0142,2025-05-25,Bangladesh,Indiana,Loweberg,Burglary,Male,27,Female,No,Under Investigation,Greed,Bangladesh Police Department,57.406907,126.605507
+CR0143,2025-09-04,India,Arkansas,South Edwardport,Drug Offense,Male,80,Other,Yes,Under Investigation,Revenge,India Police Department,-8.9164975,-175.630878
+CR0144,2025-03-14,Bangladesh,Arkansas,North Scottton,Assault,Female,37,Female,No,Under Investigation,Lust,Bangladesh Police Department,-40.4752715,-136.939045
+CR0145,2024-08-15,India,New Mexico,East Lucasfort,Cybercrime,Male,51,Female,Yes,Open,Lust,India Police Department,40.139599,57.818184
+CR0146,2024-03-21,China,Louisiana,South Danielton,Fraud,Female,73,Female,No,Under Investigation,Cyber Gain,China Police Department,49.316125,-149.050077
+CR0147,2022-10-17,India,South Dakota,Walkerfurt,Cybercrime,Male,31,Male,Yes,Closed,Serial Killer,India Police Department,70.8920375,-146.448172
+CR0148,2022-11-12,China,New Hampshire,East Erin,Murder,Other,33,Female,No,Open,Revenge,China Police Department,-36.012001,-127.646530
+CR0149,2025-07-16,India,Wyoming,Jessicaburgh,Kidnapping,Male,42,Male,No,Closed,Greed,India Police Department,-0.872152,31.619784
+CR0150,2025-01-31,United States,Wyoming,Lake Kevin,Assault,Female,31,Female,Yes,Closed,Religious Conversion,United States Police Department,67.548565,-149.211261
+CR0151,2022-10-13,United States,Florida,Amyton,Murder,Female,15,Other,Yes,Open,Lust,United States Police Department,-22.4960455,-123.661051
+CR0152,2024-06-21,China,Minnesota,South Curtisview,Cybercrime,Other,37,Male,Yes,Closed,Domestic Dispute,China Police Department,-17.401215,-104.631130
+CR0153,2023-02-17,India,Texas,Nicoleberg,Theft,Female,50,Other,No,Under Investigation,Cyber Gain,India Police Department,86.2722525,60.503175
+CR0154,2024-10-18,India,California,South Nicolefort,Murder,Other,37,Male,No,Closed,Cyber Gain,India Police Department,16.1685715,69.540205
+CR0155,2025-05-24,Korea,Oklahoma,Shannonburgh,Murder,Female,30,Other,No,Under Investigation,Revenge,Korea Police Department,75.640521,42.647207
+CR0156,2024-03-20,India,California,Aliciabury,Fraud,Male,20,Male,No,Open,Cyber Gain,India Police Department,-50.083212,-178.618013
+CR0157,2023-11-07,United States,Alabama,Thompsonborough,Theft,Female,31,Male,No,Under Investigation,Domestic Dispute,United States Police Department,77.4049915,-50.650979
+CR0158,2023-09-11,United States,Rhode Island,Carpenterton,Drug Offense,Female,20,Other,No,Under Investigation,Domestic Dispute,United States Police Department,53.4568665,-54.427759
+CR0159,2023-01-07,Korea,Mississippi,Michaelport,Kidnapping,Other,76,Other,No,Under Investigation,Domestic Dispute,Korea Police Department,-49.092039,-63.899967
+CR0160,2025-02-16,Korea,Arkansas,East Sharon,Cybercrime,Female,13,Female,No,Open,Serial Killer,Korea Police Department,28.9378785,51.953848
+CR0161,2024-01-15,India,Vermont,North Marcus,Assault,Male,27,Other,Yes,Closed,Domestic Dispute,India Police Department,-18.7701185,-138.972649
+CR0162,2023-03-28,India,Idaho,Millerberg,Kidnapping,Male,41,Male,No,Open,Greed,India Police Department,-32.903156,-93.396853
+CR0163,2023-08-08,India,Michigan,Clarkfort,Kidnapping,Male,51,Male,No,Closed,Cyber Gain,India Police Department,-50.8168705,48.037070
+CR0164,2023-04-29,India,North Carolina,Josephtown,Murder,Other,33,Male,No,Open,Serial Killer,India Police Department,88.3314975,13.792454
+CR0165,2022-11-21,India,New Hampshire,Lake Devonfort,Drug Offense,Other,34,Female,Yes,Closed,Greed,India Police Department,-71.4086525,108.951430
+CR0166,2023-10-27,China,Kentucky,North Jennifer,Kidnapping,Female,71,Other,No,Closed,Religious Conversion,China Police Department,73.9227955,159.013297
+CR0167,2024-06-07,Korea,Colorado,North Christophermouth,Assault,Female,78,Male,No,Under Investigation,Domestic Dispute,Korea Police Department,-16.3619925,-27.843543
+CR0168,2025-01-19,Korea,New Mexico,Port Heatherville,Burglary,Other,55,Male,Yes,Open,Domestic Dispute,Korea Police Department,45.5059165,-16.247017
+CR0169,2023-10-01,Pakistan,Tennessee,New Tiffanyfort,Drug Offense,Male,80,Male,Yes,Closed,Serial Killer,Pakistan Police Department,-39.4180535,-16.763203
+CR0170,2024-06-16,Pakistan,Delaware,New Natashastad,Drug Offense,Other,48,Female,No,Open,Cyber Gain,Pakistan Police Department,-4.028427,137.508537
+CR0171,2024-11-06,United States,Indiana,Kurtport,Cybercrime,Male,19,Male,No,Open,Lust,United States Police Department,13.087238,-27.083544
+CR0172,2023-01-18,China,Texas,Cantuchester,Cybercrime,Other,32,Male,No,Under Investigation,Serial Killer,China Police Department,-48.3830275,-35.423049
+CR0173,2023-03-22,Korea,Pennsylvania,Douglasmouth,Kidnapping,Other,52,Male,Yes,Closed,Greed,Korea Police Department,85.317818,8.172857
+CR0174,2023-06-18,Pakistan,California,North Erinshire,Drug Offense,Other,77,Male,No,Under Investigation,Serial Killer,Pakistan Police Department,46.959680,-144.548539
+CR0175,2023-11-02,Korea,Kansas,Estradabury,Murder,Other,43,Male,Yes,Closed,Domestic Dispute,Korea Police Department,72.102505,-51.214630
+CR0176,2024-04-30,Bangladesh,Massachusetts,Lake Gabriel,Assault,Other,68,Male,Yes,Closed,Cyber Gain,Bangladesh Police Department,41.1752025,-87.656210
+CR0177,2023-03-23,Korea,Pennsylvania,Port Rachelhaven,Assault,Male,60,Other,Yes,Closed,Political Motive,Korea Police Department,80.930297,-158.736480
+CR0178,2023-12-23,Pakistan,Kentucky,South Timothy,Assault,Other,37,Female,No,Closed,Revenge,Pakistan Police Department,-8.507937,-127.977445
+CR0179,2025-01-25,Korea,Indiana,Leeview,Murder,Female,30,Female,Yes,Open,Greed,Korea Police Department,-28.5366845,104.244782
+CR0180,2024-10-07,China,Pennsylvania,Port Jeffreytown,Theft,Male,56,Other,Yes,Under Investigation,Domestic Dispute,China Police Department,-37.8352865,-107.873923
+CR0181,2025-04-28,United States,Kansas,Johnsontown,Kidnapping,Other,55,Female,No,Open,Serial Killer,United States Police Department,7.2985915,-62.108157
+CR0182,2023-03-22,China,Michigan,Christinefort,Murder,Female,13,Male,Yes,Closed,Serial Killer,China Police Department,-79.660715,-168.053453
+CR0183,2023-12-22,Bangladesh,Mississippi,East Meaganberg,Kidnapping,Other,27,Other,No,Closed,Political Motive,Bangladesh Police Department,15.835496,-88.648319
+CR0184,2025-03-02,Pakistan,Tennessee,Carterland,Burglary,Male,18,Female,Yes,Under Investigation,Political Motive,Pakistan Police Department,53.4815155,34.915215
+CR0185,2024-08-12,Pakistan,California,Dayport,Fraud,Female,46,Female,Yes,Open,Lust,Pakistan Police Department,-15.420229,165.306587
+CR0186,2022-12-24,Korea,Rhode Island,Bryantown,Assault,Male,19,Male,Yes,Open,Political Motive,Korea Police Department,-29.3378185,70.343454
+CR0187,2024-07-22,United States,Louisiana,South David,Cybercrime,Male,32,Male,Yes,Closed,Revenge,United States Police Department,55.3553205,-18.765930
+CR0188,2024-04-24,Korea,Utah,South Kellyview,Drug Offense,Other,20,Other,No,Closed,Lust,Korea Police Department,-22.304701,28.534081
+CR0189,2025-07-20,India,Oregon,Port Amandaberg,Kidnapping,Female,36,Other,Yes,Closed,Lust,India Police Department,72.0006955,91.074546
+CR0190,2023-12-07,China,Montana,Bassborough,Fraud,Female,34,Other,No,Under Investigation,Serial Killer,China Police Department,6.8108495,-97.018749
+CR0191,2024-11-06,Pakistan,Vermont,West Maryview,Cybercrime,Female,57,Male,Yes,Open,Revenge,Pakistan Police Department,-0.3358495,42.975486
+CR0192,2025-06-24,United States,Wyoming,Meaganview,Drug Offense,Male,46,Other,No,Closed,Religious Conversion,United States Police Department,-3.577238,114.843713
+CR0193,2024-11-29,China,Michigan,New Justinfort,Drug Offense,Other,28,Other,No,Closed,Political Motive,China Police Department,-10.395025,61.171649
+CR0194,2023-10-26,United States,Maryland,Thomasshire,Drug Offense,Other,33,Other,No,Closed,Religious Conversion,United States Police Department,-28.2682195,33.051072
+CR0195,2025-03-04,China,Oregon,Port Dakotaton,Cybercrime,Male,69,Male,No,Closed,Cyber Gain,China Police Department,-10.433212,-169.364259
+CR0196,2025-08-30,India,Nebraska,South Eric,Cybercrime,Female,19,Male,Yes,Under Investigation,Lust,India Police Department,21.2360475,31.852870
+CR0197,2024-04-28,Pakistan,Minnesota,Ryanland,Cybercrime,Male,36,Female,No,Under Investigation,Political Motive,Pakistan Police Department,-22.5848045,-24.909019
+CR0198,2024-07-25,India,New Jersey,South Natasha,Cybercrime,Female,21,Other,Yes,Open,Revenge,India Police Department,-17.471723,-0.011545
+CR0199,2023-12-26,China,Massachusetts,South Josephbury,Assault,Male,44,Other,No,Open,Lust,China Police Department,68.729061,-5.483086
+CR0200,2023-02-28,India,New York,Harperfurt,Cybercrime,Male,59,Other,Yes,Open,Revenge,India Police Department,36.0821375,-34.366998
+CR0201,2023-07-15,United States,Georgia,Mcmillanton,Drug Offense,Male,54,Female,Yes,Open,Religious Conversion,United States Police Department,-51.645885,-63.090073
+CR0202,2023-06-06,Korea,Montana,Garciamouth,Fraud,Female,13,Male,No,Open,Lust,Korea Police Department,9.044382,-149.540929
+CR0203,2025-03-27,Korea,Alaska,Martinezshire,Kidnapping,Other,29,Female,No,Open,Political Motive,Korea Police Department,38.365740,-31.505892
+CR0204,2024-02-27,Bangladesh,Montana,Michaelmouth,Murder,Other,21,Other,Yes,Closed,Domestic Dispute,Bangladesh Police Department,-84.8769255,123.297118
+CR0205,2023-07-25,China,Alaska,Joanneview,Kidnapping,Female,56,Female,Yes,Under Investigation,Domestic Dispute,China Police Department,77.5739855,-4.976796
+CR0206,2022-11-29,Bangladesh,West Virginia,South Kevinchester,Theft,Female,60,Other,No,Under Investigation,Lust,Bangladesh Police Department,81.4277875,29.529243
+CR0207,2023-02-10,India,Michigan,East Joseph,Fraud,Female,60,Other,Yes,Closed,Domestic Dispute,India Police Department,40.0195715,-113.799698
+CR0208,2024-09-28,United States,Mississippi,Lake Cherylbury,Kidnapping,Male,73,Male,Yes,Open,Serial Killer,United States Police Department,-80.819972,-42.501775
+CR0209,2024-11-08,Korea,Nebraska,North Lisachester,Fraud,Female,28,Other,No,Under Investigation,Greed,Korea Police Department,-41.7774945,150.468091
+CR0210,2023-07-13,China,Arkansas,Boydchester,Burglary,Other,70,Other,No,Under Investigation,Domestic Dispute,China Police Department,-15.8412665,150.837431
+CR0211,2024-08-27,Korea,North Carolina,Cervantesland,Assault,Male,51,Female,Yes,Closed,Cyber Gain,Korea Police Department,24.3543855,-109.800174
+CR0212,2023-04-02,China,Washington,Matthewton,Kidnapping,Female,28,Other,Yes,Closed,Religious Conversion,China Police Department,79.808678,-84.859166
+CR0213,2025-06-07,Pakistan,Massachusetts,Gregoryshire,Fraud,Other,23,Male,No,Under Investigation,Political Motive,Pakistan Police Department,-55.7456025,171.388970
+CR0214,2024-01-06,China,Idaho,South Thomasborough,Assault,Male,15,Female,Yes,Closed,Lust,China Police Department,-0.861173,-130.907096
+CR0215,2025-04-05,India,Arizona,West Nina,Drug Offense,Male,51,Female,No,Under Investigation,Lust,India Police Department,57.9256765,166.428142
+CR0216,2025-08-19,Bangladesh,North Carolina,West Dianachester,Cybercrime,Male,73,Male,No,Under Investigation,Serial Killer,Bangladesh Police Department,5.139010,-90.640031
+CR0217,2025-02-21,United States,Maine,Michaelstad,Theft,Male,49,Female,No,Under Investigation,Religious Conversion,United States Police Department,45.312359,173.479890
+CR0218,2022-10-15,India,Tennessee,Zimmermanview,Burglary,Other,72,Other,No,Open,Revenge,India Police Department,-45.4756995,-59.009489
+CR0219,2024-10-20,United States,Tennessee,Davismouth,Drug Offense,Male,28,Other,Yes,Under Investigation,Revenge,United States Police Department,2.3788245,35.370978
+CR0220,2023-08-10,Pakistan,Connecticut,South Daniel,Fraud,Female,60,Other,Yes,Open,Domestic Dispute,Pakistan Police Department,43.7866285,147.176243
+CR0221,2023-12-28,India,South Carolina,Michaelview,Fraud,Other,23,Female,Yes,Under Investigation,Revenge,India Police Department,77.6190535,-116.817279
+CR0222,2023-11-23,India,North Carolina,Warnerburgh,Kidnapping,Male,64,Male,Yes,Open,Greed,India Police Department,70.0582245,157.511710
+CR0223,2025-01-04,India,Rhode Island,Lake Roger,Kidnapping,Male,53,Male,No,Under Investigation,Serial Killer,India Police Department,30.1791235,-74.710542
+CR0224,2025-03-15,India,Nebraska,Debratown,Fraud,Male,67,Female,No,Closed,Cyber Gain,India Police Department,-12.875384,-15.201889
+CR0225,2025-08-17,Korea,Minnesota,Williambury,Theft,Other,43,Female,Yes,Open,Cyber Gain,Korea Police Department,-85.878734,86.243494
+CR0226,2023-07-05,Bangladesh,Wyoming,Edwardshire,Burglary,Male,60,Male,No,Open,Cyber Gain,Bangladesh Police Department,40.8010185,-59.433509
+CR0227,2023-03-04,United States,New Mexico,New Fernando,Fraud,Other,24,Male,Yes,Open,Lust,United States Police Department,-74.2088085,-71.408301
+CR0228,2023-04-23,China,Arkansas,West Mark,Assault,Female,16,Female,No,Closed,Lust,China Police Department,47.625966,-150.582468
+CR0229,2024-07-09,India,North Dakota,Adammouth,Kidnapping,Other,67,Other,Yes,Open,Cyber Gain,India Police Department,-61.267847,49.486205
+CR0230,2025-02-03,China,South Dakota,Ralphfurt,Burglary,Other,59,Female,No,Closed,Lust,China Police Department,3.3194345,-12.428331
+CR0231,2023-05-07,China,Oklahoma,East Anthony,Murder,Male,31,Female,Yes,Closed,Religious Conversion,China Police Department,38.8978125,-33.772897
+CR0232,2025-03-21,United States,Nebraska,Josephfurt,Kidnapping,Female,27,Female,No,Under Investigation,Revenge,United States Police Department,8.263376,-49.431086
+CR0233,2023-09-17,Bangladesh,North Carolina,East Jeffreyberg,Fraud,Female,44,Female,No,Open,Lust,Bangladesh Police Department,-1.4211075,27.344089
+CR0234,2024-11-07,India,Vermont,West Amanda,Theft,Female,40,Other,No,Closed,Serial Killer,India Police Department,-23.1669895,87.324915
+CR0235,2023-09-11,Pakistan,Delaware,Port Mia,Murder,Female,79,Male,Yes,Open,Greed,Pakistan Police Department,51.517880,119.293524
+CR0236,2023-12-13,India,Massachusetts,North Michaelview,Burglary,Male,48,Female,No,Under Investigation,Domestic Dispute,India Police Department,-84.1531555,-153.332433
+CR0237,2025-06-15,India,New Mexico,Lake Codyberg,Kidnapping,Male,57,Female,No,Under Investigation,Serial Killer,India Police Department,-5.319156,-83.798370
+CR0238,2023-08-20,Korea,Nebraska,Lake Adamville,Burglary,Female,24,Female,Yes,Under Investigation,Religious Conversion,Korea Police Department,4.7617405,-111.745945
+CR0239,2025-02-24,Pakistan,West Virginia,East Candiceview,Assault,Male,46,Other,Yes,Under Investigation,Serial Killer,Pakistan Police Department,-13.217577,146.088954
+CR0240,2024-02-16,United States,Vermont,North Bruce,Assault,Other,32,Male,Yes,Under Investigation,Cyber Gain,United States Police Department,-69.259559,47.438933
+CR0241,2023-06-10,China,Florida,East Courtneymouth,Theft,Female,48,Male,Yes,Under Investigation,Greed,China Police Department,26.509770,-36.767370
+CR0242,2023-01-17,United States,California,South Kellytown,Burglary,Other,35,Female,No,Closed,Serial Killer,United States Police Department,-62.9090855,32.808646
+CR0243,2025-04-08,China,Kentucky,Johnsonborough,Burglary,Other,42,Female,Yes,Open,Serial Killer,China Police Department,27.610453,-59.400558
+CR0244,2022-12-17,India,Idaho,Boltonfurt,Theft,Male,70,Other,Yes,Closed,Greed,India Police Department,-84.843642,123.595737
+CR0245,2024-10-09,China,Iowa,Arellanotown,Assault,Other,20,Male,Yes,Under Investigation,Cyber Gain,China Police Department,-30.715163,-67.375456
+CR0246,2025-08-31,Pakistan,Louisiana,Mckinneyside,Murder,Female,58,Other,No,Closed,Serial Killer,Pakistan Police Department,-12.7105205,-86.593864
+CR0247,2025-05-12,Pakistan,Tennessee,Sarahfort,Kidnapping,Female,26,Female,Yes,Under Investigation,Cyber Gain,Pakistan Police Department,-67.998342,145.534209
+CR0248,2023-05-03,China,Arkansas,North Patrick,Theft,Other,60,Female,Yes,Under Investigation,Lust,China Police Department,23.6759365,49.635936
+CR0249,2024-06-17,India,Washington,Phillipsview,Theft,Male,34,Other,No,Closed,Domestic Dispute,India Police Department,58.915227,-162.019588
+CR0250,2024-03-02,United States,Oklahoma,Bethport,Kidnapping,Male,24,Other,Yes,Open,Cyber Gain,United States Police Department,67.3734935,-78.409091
+CR0251,2022-11-04,Pakistan,New Jersey,New Philip,Burglary,Other,39,Other,Yes,Closed,Cyber Gain,Pakistan Police Department,-45.011253,-104.838269
+CR0252,2024-11-03,China,Oklahoma,Wongtown,Burglary,Male,38,Female,Yes,Closed,Domestic Dispute,China Police Department,-89.287095,-147.592107
+CR0253,2023-04-14,Korea,Kansas,Harringtonport,Burglary,Female,14,Female,Yes,Open,Domestic Dispute,Korea Police Department,22.0558125,155.138812
+CR0254,2024-11-21,India,New York,New Brookemouth,Fraud,Male,41,Male,No,Closed,Political Motive,India Police Department,13.213157,-132.465856
+CR0255,2024-07-31,China,Idaho,East Alanberg,Burglary,Male,28,Male,No,Open,Political Motive,China Police Department,67.2606065,7.923999
+CR0256,2025-08-24,United States,Minnesota,Fergusonburgh,Burglary,Female,17,Male,Yes,Under Investigation,Revenge,United States Police Department,66.6199915,-35.850541
+CR0257,2023-07-19,China,Ohio,Amybury,Burglary,Male,20,Other,No,Closed,Revenge,China Police Department,-19.0413345,-18.494144
+CR0258,2024-12-01,Bangladesh,Delaware,New Susanberg,Assault,Male,10,Male,Yes,Under Investigation,Greed,Bangladesh Police Department,77.593887,58.587588
+CR0259,2024-07-28,United States,Texas,Lake Nicholas,Assault,Male,15,Female,Yes,Under Investigation,Domestic Dispute,United States Police Department,65.4343315,-8.141327
+CR0260,2023-05-24,United States,Texas,West Timothy,Murder,Male,35,Male,No,Under Investigation,Political Motive,United States Police Department,63.8073815,176.392096
+CR0261,2023-04-12,Pakistan,Michigan,New Tinaburgh,Fraud,Female,50,Male,No,Closed,Domestic Dispute,Pakistan Police Department,28.0934215,166.662781
+CR0262,2024-02-10,Pakistan,Tennessee,Youngstad,Theft,Male,27,Male,No,Under Investigation,Serial Killer,Pakistan Police Department,-0.769987,6.913768
+CR0263,2025-03-17,Korea,Washington,Hollowaytown,Fraud,Female,55,Female,Yes,Under Investigation,Political Motive,Korea Police Department,-0.6747265,-113.956833
+CR0264,2023-12-25,China,Minnesota,West Barbaraborough,Assault,Other,24,Other,No,Closed,Political Motive,China Police Department,46.4467285,-121.849357
+CR0265,2023-12-08,India,Pennsylvania,North Paulbury,Kidnapping,Male,65,Other,Yes,Closed,Greed,India Police Department,-48.079281,80.868103
+CR0266,2024-12-18,India,Georgia,South Monicamouth,Drug Offense,Female,66,Other,No,Open,Greed,India Police Department,-21.6464475,47.528350
+CR0267,2025-01-20,United States,Utah,North Jamiechester,Theft,Female,60,Female,No,Open,Serial Killer,United States Police Department,65.4617945,-95.190478
+CR0268,2023-05-23,Pakistan,North Carolina,North Mary,Murder,Other,45,Female,Yes,Under Investigation,Serial Killer,Pakistan Police Department,4.727901,-9.764036
+CR0269,2025-01-18,United States,Maryland,Lake Travisside,Murder,Other,77,Other,Yes,Open,Greed,United States Police Department,9.1265645,-107.091503
+CR0270,2024-02-29,India,South Carolina,Gregoryland,Burglary,Male,60,Male,Yes,Closed,Serial Killer,India Police Department,1.2553485,-130.459842
+CR0271,2024-08-07,United States,Arizona,Lake Kimberly,Drug Offense,Female,28,Male,Yes,Closed,Domestic Dispute,United States Police Department,-75.384193,129.625524
+CR0272,2025-03-29,United States,Connecticut,Richardport,Fraud,Other,45,Male,Yes,Open,Political Motive,United States Police Department,20.681632,66.738488
+CR0273,2023-09-13,United States,Vermont,West Lauramouth,Kidnapping,Other,53,Female,No,Open,Lust,United States Police Department,-21.297323,25.654396
+CR0274,2025-09-30,China,Rhode Island,Lake Kimfort,Cybercrime,Female,56,Other,Yes,Open,Revenge,China Police Department,16.143253,94.521066
+CR0275,2025-03-06,Korea,West Virginia,New Tiffany,Cybercrime,Female,52,Male,No,Closed,Greed,Korea Police Department,13.332352,-34.717278
+CR0276,2024-12-11,China,Florida,Virginiaville,Theft,Other,41,Other,No,Under Investigation,Lust,China Police Department,-40.207564,152.376751
+CR0277,2024-07-01,Korea,Missouri,Andersonburgh,Burglary,Female,23,Male,Yes,Closed,Greed,Korea Police Department,63.795044,-131.738811
+CR0278,2023-09-13,Bangladesh,Maryland,North Mark,Kidnapping,Female,62,Female,No,Under Investigation,Domestic Dispute,Bangladesh Police Department,-2.071875,0.546104
+CR0279,2023-08-20,United States,Massachusetts,New Mark,Theft,Other,78,Other,No,Under Investigation,Lust,United States Police Department,46.2392305,131.147693
+CR0280,2023-02-14,Bangladesh,North Carolina,West Jeremy,Murder,Other,60,Other,Yes,Open,Political Motive,Bangladesh Police Department,70.253439,-110.840954
+CR0281,2024-10-20,India,Tennessee,Richardton,Theft,Female,12,Female,No,Closed,Domestic Dispute,India Police Department,-24.727944,-155.295129
+CR0282,2023-02-07,Bangladesh,New Hampshire,Port Lauramouth,Murder,Female,62,Other,Yes,Closed,Serial Killer,Bangladesh Police Department,-41.748385,-125.978356
+CR0283,2025-04-25,China,Wisconsin,East Jennifermouth,Theft,Female,22,Male,No,Closed,Cyber Gain,China Police Department,23.2292565,-40.684639
+CR0284,2022-10-31,India,New York,Gibsonshire,Fraud,Male,62,Male,No,Closed,Greed,India Police Department,-28.1305575,-159.061904
+CR0285,2025-08-20,Korea,New York,North Karen,Kidnapping,Other,12,Female,No,Open,Political Motive,Korea Police Department,58.247545,82.269327
+CR0286,2024-05-28,Bangladesh,Colorado,Port Aliciaberg,Drug Offense,Male,47,Female,Yes,Closed,Religious Conversion,Bangladesh Police Department,11.031253,69.967466
+CR0287,2023-01-29,Korea,North Carolina,Greenside,Drug Offense,Male,46,Female,No,Closed,Greed,Korea Police Department,39.7903905,50.209630
+CR0288,2024-12-22,India,Alabama,Port Antonio,Kidnapping,Other,64,Male,No,Under Investigation,Cyber Gain,India Police Department,78.0690285,-7.152921
+CR0289,2023-05-19,Bangladesh,Utah,Carolynmouth,Burglary,Female,58,Male,Yes,Closed,Domestic Dispute,Bangladesh Police Department,68.2898415,-117.760471
+CR0290,2023-04-17,United States,Delaware,West Damonville,Burglary,Male,37,Other,Yes,Open,Political Motive,United States Police Department,16.4184965,-160.581846
+CR0291,2024-12-04,Korea,Missouri,West Mark,Kidnapping,Male,69,Other,No,Open,Religious Conversion,Korea Police Department,-67.0309745,-73.151487
+CR0292,2024-02-09,China,South Dakota,Vasquezfurt,Theft,Other,37,Male,No,Open,Political Motive,China Police Department,48.599400,-115.964101
+CR0293,2023-02-18,India,Missouri,North Tracy,Kidnapping,Female,22,Other,Yes,Closed,Religious Conversion,India Police Department,24.685585,44.897415
+CR0294,2023-01-06,Bangladesh,Iowa,West Alex,Burglary,Male,79,Female,Yes,Under Investigation,Serial Killer,Bangladesh Police Department,86.9269585,58.665490
+CR0295,2024-08-29,United States,Indiana,North Deborahfurt,Murder,Other,80,Other,No,Closed,Lust,United States Police Department,23.5602435,178.928531
+CR0296,2023-09-25,United States,South Dakota,Natalieland,Kidnapping,Female,75,Male,No,Closed,Political Motive,United States Police Department,-55.4578655,-129.354666
+CR0297,2025-04-02,Bangladesh,Massachusetts,Stewartview,Drug Offense,Male,24,Other,Yes,Open,Lust,Bangladesh Police Department,21.9820265,-113.592811
+CR0298,2024-02-15,United States,Wyoming,Monicatown,Murder,Male,77,Other,No,Under Investigation,Lust,United States Police Department,-9.313717,50.812481
+CR0299,2024-07-26,United States,Tennessee,North Kevinfurt,Burglary,Male,22,Male,Yes,Closed,Domestic Dispute,United States Police Department,-65.427668,151.561355
+CR0300,2023-05-23,Korea,Texas,Whitneymouth,Murder,Female,38,Female,No,Open,Greed,Korea Police Department,53.616911,175.316706
+CR0301,2025-06-01,Korea,North Dakota,Garciachester,Assault,Female,18,Male,Yes,Closed,Political Motive,Korea Police Department,78.638508,-145.044488
+CR0302,2024-04-24,Bangladesh,Virginia,Lake Davidmouth,Kidnapping,Male,35,Female,No,Under Investigation,Greed,Bangladesh Police Department,-64.5462975,118.906934
+CR0303,2025-07-04,United States,Michigan,Alexanderbury,Kidnapping,Male,38,Male,Yes,Open,Religious Conversion,United States Police Department,-85.4938075,-47.896421
+CR0304,2025-09-13,India,Arizona,Lake Jeffrey,Cybercrime,Female,60,Other,No,Closed,Cyber Gain,India Police Department,-31.9871575,169.907516
+CR0305,2024-02-01,China,North Dakota,Jessicaville,Theft,Other,19,Male,No,Open,Domestic Dispute,China Police Department,56.3303815,-155.631880
+CR0306,2023-12-18,India,Pennsylvania,East Lindseyburgh,Theft,Female,73,Other,Yes,Under Investigation,Lust,India Police Department,-69.514605,138.298483
+CR0307,2024-10-18,Bangladesh,Rhode Island,South Robert,Cybercrime,Male,53,Other,Yes,Under Investigation,Political Motive,Bangladesh Police Department,17.124919,2.750530
+CR0308,2022-10-10,Pakistan,Nevada,Masonfurt,Murder,Other,79,Male,No,Open,Cyber Gain,Pakistan Police Department,61.5674835,101.778389
+CR0309,2024-11-29,Bangladesh,Wisconsin,Hartside,Murder,Female,59,Other,No,Open,Serial Killer,Bangladesh Police Department,-14.187040,-141.911618
+CR0310,2025-09-01,India,Idaho,Petersenhaven,Murder,Other,71,Female,Yes,Open,Political Motive,India Police Department,-30.635479,-146.229832
+CR0311,2024-02-04,Bangladesh,Oregon,South John,Kidnapping,Other,75,Other,No,Under Investigation,Domestic Dispute,Bangladesh Police Department,-89.663399,36.202876
+CR0312,2023-04-26,India,Iowa,Jacobsbury,Drug Offense,Male,33,Male,Yes,Closed,Revenge,India Police Department,26.7757105,-144.926504
+CR0313,2024-06-13,United States,New York,Javiershire,Theft,Male,34,Male,No,Under Investigation,Political Motive,United States Police Department,-56.1679735,171.358675
+CR0314,2024-08-22,United States,Oregon,Carneyview,Fraud,Other,19,Male,No,Closed,Greed,United States Police Department,72.2516865,21.459827
+CR0315,2023-02-17,United States,Colorado,Port Jean,Cybercrime,Other,71,Female,No,Closed,Cyber Gain,United States Police Department,69.571666,163.592650
+CR0316,2023-06-22,China,Minnesota,South Emily,Assault,Male,59,Male,No,Under Investigation,Serial Killer,China Police Department,70.253159,51.679938
+CR0317,2024-02-23,Korea,California,Emilyburgh,Cybercrime,Female,73,Male,No,Closed,Domestic Dispute,Korea Police Department,85.7762045,80.150579
+CR0318,2023-04-04,China,Illinois,New Josebury,Theft,Female,40,Male,No,Open,Serial Killer,China Police Department,51.9548075,83.609438
+CR0319,2025-07-17,China,Kentucky,Wandachester,Cybercrime,Other,29,Female,Yes,Under Investigation,Greed,China Police Department,-26.649684,30.164790
+CR0320,2023-05-15,United States,Wyoming,Leestad,Assault,Female,33,Female,Yes,Closed,Domestic Dispute,United States Police Department,-64.9247325,-3.655647
+CR0321,2025-08-27,Bangladesh,New Hampshire,East Lisa,Burglary,Male,62,Other,No,Closed,Revenge,Bangladesh Police Department,48.855946,60.578002
+CR0322,2024-01-24,United States,Kansas,Joyhaven,Drug Offense,Other,51,Female,Yes,Closed,Cyber Gain,United States Police Department,85.5514995,-132.960786
+CR0323,2022-11-20,India,Washington,Harringtonburgh,Murder,Other,79,Other,Yes,Under Investigation,Domestic Dispute,India Police Department,35.349003,-77.861223
+CR0324,2025-08-29,United States,Iowa,Jasonborough,Theft,Female,18,Female,Yes,Closed,Religious Conversion,United States Police Department,28.8889095,109.534451
+CR0325,2024-05-18,Pakistan,Arizona,Port Lisachester,Murder,Other,78,Other,Yes,Under Investigation,Domestic Dispute,Pakistan Police Department,23.2181795,-110.752389
+CR0326,2025-05-25,Bangladesh,Pennsylvania,West Kurtland,Theft,Male,73,Male,Yes,Open,Lust,Bangladesh Police Department,75.4934025,-3.792341
+CR0327,2025-03-29,China,California,Alexandermouth,Burglary,Male,55,Male,No,Closed,Political Motive,China Police Department,-72.7322405,3.142378
+CR0328,2025-03-29,India,Wyoming,Port Jessica,Burglary,Male,77,Female,Yes,Under Investigation,Cyber Gain,India Police Department,-25.0978505,27.559022
+CR0329,2023-03-25,United States,Maryland,South Dawnland,Burglary,Other,40,Other,No,Closed,Political Motive,United States Police Department,46.6219975,16.860287
+CR0330,2022-11-09,Pakistan,Nebraska,Paulaberg,Burglary,Other,71,Other,Yes,Under Investigation,Political Motive,Pakistan Police Department,79.1950375,-3.852525
+CR0331,2025-06-26,Korea,Arkansas,South Lorifort,Kidnapping,Other,63,Other,No,Open,Serial Killer,Korea Police Department,-65.690178,81.187274
+CR0332,2024-05-20,Pakistan,California,New Jeffreybury,Cybercrime,Female,26,Female,Yes,Under Investigation,Political Motive,Pakistan Police Department,-13.762649,-142.338042
+CR0333,2024-01-04,Korea,Arkansas,Michaelland,Drug Offense,Other,71,Female,Yes,Under Investigation,Cyber Gain,Korea Police Department,28.7507015,-16.066796
+CR0334,2023-04-18,Bangladesh,West Virginia,East Pamelatown,Drug Offense,Male,64,Other,No,Closed,Greed,Bangladesh Police Department,8.178502,-155.903520
+CR0335,2022-11-05,Korea,Ohio,Janettown,Fraud,Other,13,Female,No,Under Investigation,Greed,Korea Police Department,60.5162475,-154.763277
+CR0336,2022-11-20,Pakistan,North Dakota,Hernandezfort,Theft,Female,16,Other,No,Open,Revenge,Pakistan Police Department,5.9552435,43.974658
+CR0337,2022-10-27,China,South Dakota,East Joshua,Cybercrime,Other,18,Male,No,Open,Revenge,China Police Department,88.960470,-17.944155
+CR0338,2025-06-02,Korea,Delaware,Lake Kenneth,Murder,Female,73,Other,No,Open,Revenge,Korea Police Department,-77.494706,-175.235280
+CR0339,2023-03-28,China,Louisiana,Browntown,Theft,Male,45,Male,No,Under Investigation,Greed,China Police Department,-21.086619,-117.286570
+CR0340,2025-01-02,India,Wyoming,Albertside,Theft,Female,33,Female,No,Open,Greed,India Police Department,-82.5961455,177.080002
+CR0341,2023-08-06,Korea,Massachusetts,West Robert,Fraud,Other,79,Other,No,Open,Revenge,Korea Police Department,-22.788983,-110.430643
+CR0342,2023-08-25,Korea,California,Lake Scott,Kidnapping,Female,51,Male,No,Closed,Cyber Gain,Korea Police Department,-69.855643,-169.717116
+CR0343,2025-06-23,United States,Connecticut,Johnsonborough,Assault,Other,60,Male,No,Closed,Revenge,United States Police Department,33.268963,28.387089
+CR0344,2023-08-13,Korea,Utah,Davidview,Theft,Female,33,Female,No,Open,Lust,Korea Police Department,-26.591628,7.378667
+CR0345,2024-03-01,Bangladesh,Utah,Rickybury,Murder,Male,33,Other,No,Closed,Religious Conversion,Bangladesh Police Department,42.359439,22.196894
+CR0346,2023-12-26,Korea,Illinois,Copelandhaven,Theft,Male,62,Other,No,Under Investigation,Religious Conversion,Korea Police Department,-66.610600,-59.725504
+CR0347,2023-05-14,Korea,South Dakota,Maldonadobury,Assault,Female,57,Female,Yes,Open,Lust,Korea Police Department,79.8792195,-1.807801
+CR0348,2025-08-10,India,Wyoming,Alvinshire,Assault,Other,64,Female,No,Closed,Religious Conversion,India Police Department,18.525365,-7.217438
+CR0349,2024-07-09,Bangladesh,New Hampshire,Port Staceyshire,Assault,Other,30,Other,No,Open,Serial Killer,Bangladesh Police Department,58.606254,47.439980
+CR0350,2023-01-07,Pakistan,North Dakota,Martintown,Assault,Other,40,Male,No,Open,Revenge,Pakistan Police Department,-58.7197845,95.830816
+CR0351,2025-08-25,Pakistan,Kansas,Michaelport,Assault,Female,13,Female,Yes,Closed,Greed,Pakistan Police Department,-87.896479,4.801667
+CR0352,2024-05-19,India,Nebraska,Lake Saraberg,Assault,Other,61,Female,Yes,Open,Religious Conversion,India Police Department,-79.5327995,133.053848
+CR0353,2025-06-08,Pakistan,Hawaii,South Davidmouth,Assault,Other,49,Female,Yes,Under Investigation,Domestic Dispute,Pakistan Police Department,-87.2584095,12.827871
+CR0354,2023-02-15,India,Arizona,Lake James,Cybercrime,Female,20,Other,No,Closed,Cyber Gain,India Police Department,57.215496,-167.812950
+CR0355,2024-08-13,Korea,North Dakota,Thomasfort,Theft,Male,11,Other,No,Open,Revenge,Korea Police Department,33.514522,-17.684853
+CR0356,2025-06-13,Pakistan,Virginia,East Stephanieland,Burglary,Male,20,Male,Yes,Under Investigation,Political Motive,Pakistan Police Department,-40.8113985,-15.067924
+CR0357,2024-07-25,Korea,Indiana,Port Sandrachester,Fraud,Female,70,Male,No,Open,Religious Conversion,Korea Police Department,-15.595748,20.481460
+CR0358,2022-12-03,Pakistan,Tennessee,East Annaberg,Kidnapping,Other,77,Female,No,Open,Cyber Gain,Pakistan Police Department,-43.964343,37.594356
+CR0359,2023-07-29,Korea,Colorado,North Douglas,Theft,Other,78,Female,Yes,Open,Political Motive,Korea Police Department,-28.6201755,-69.333594
+CR0360,2022-12-04,Pakistan,North Carolina,Antonioshire,Drug Offense,Female,54,Male,Yes,Closed,Cyber Gain,Pakistan Police Department,20.026914,-34.049444
+CR0361,2023-08-09,Korea,Vermont,Port Kevin,Assault,Female,16,Male,Yes,Open,Political Motive,Korea Police Department,2.479669,-173.179423
+CR0362,2023-09-02,India,Wyoming,East Kimberly,Murder,Other,31,Other,Yes,Closed,Serial Killer,India Police Department,29.1375905,85.729319
+CR0363,2025-03-08,Bangladesh,Virginia,South Amy,Drug Offense,Male,30,Female,No,Closed,Revenge,Bangladesh Police Department,-10.7982835,-162.505864
+CR0364,2024-03-20,Bangladesh,Washington,Lake Amandashire,Burglary,Male,22,Female,Yes,Closed,Political Motive,Bangladesh Police Department,65.726146,-146.695910
+CR0365,2024-02-28,Pakistan,Wisconsin,North Markchester,Murder,Other,77,Female,No,Under Investigation,Revenge,Pakistan Police Department,-30.977331,-123.729247
+CR0366,2025-01-28,Korea,Connecticut,New Annaberg,Murder,Female,58,Male,Yes,Closed,Lust,Korea Police Department,13.0600835,111.687763
+CR0367,2025-05-12,Pakistan,North Dakota,Port Monicaland,Assault,Female,25,Male,No,Open,Lust,Pakistan Police Department,69.801832,-74.873295
+CR0368,2022-12-20,China,California,Hernandezstad,Theft,Other,31,Other,No,Under Investigation,Cyber Gain,China Police Department,47.7496725,-155.546905
+CR0369,2023-12-22,United States,South Carolina,Salinasborough,Burglary,Female,66,Male,No,Open,Greed,United States Police Department,36.5672135,-65.474590
+CR0370,2023-07-09,Pakistan,North Dakota,Lewisstad,Cybercrime,Male,32,Female,No,Open,Lust,Pakistan Police Department,-40.762232,-109.047480
+CR0371,2022-10-15,United States,North Carolina,Alexville,Kidnapping,Male,44,Other,Yes,Open,Revenge,United States Police Department,-27.260973,22.327390
+CR0372,2023-07-31,India,Montana,Mitchellland,Cybercrime,Female,48,Male,No,Open,Domestic Dispute,India Police Department,75.811723,-109.580781
+CR0373,2024-01-27,India,Maine,South Andreastad,Theft,Male,62,Other,No,Under Investigation,Religious Conversion,India Police Department,71.905417,-27.421433
+CR0374,2022-10-11,Korea,New York,West Sherry,Theft,Female,37,Female,No,Closed,Revenge,Korea Police Department,21.2081195,-64.197350
+CR0375,2023-05-04,Bangladesh,Indiana,Brownville,Kidnapping,Other,80,Male,Yes,Under Investigation,Political Motive,Bangladesh Police Department,-74.884239,125.236931
+CR0376,2023-10-03,Bangladesh,Montana,East Ryanborough,Burglary,Female,21,Other,Yes,Closed,Lust,Bangladesh Police Department,35.1473435,85.881943
+CR0377,2024-03-28,Bangladesh,New Jersey,New Sarahstad,Cybercrime,Other,68,Male,Yes,Open,Greed,Bangladesh Police Department,5.1430275,124.794471
+CR0378,2024-02-02,Bangladesh,North Carolina,Franciscoville,Cybercrime,Female,39,Male,No,Closed,Religious Conversion,Bangladesh Police Department,-43.817051,171.092020
+CR0379,2023-05-10,Pakistan,Michigan,Scottberg,Burglary,Female,10,Female,No,Closed,Lust,Pakistan Police Department,81.043737,-67.007734
+CR0380,2024-10-08,Korea,Alaska,Jamesmouth,Cybercrime,Other,64,Female,No,Under Investigation,Political Motive,Korea Police Department,9.058683,15.885419
+CR0381,2023-01-25,China,Delaware,Millsport,Burglary,Other,30,Male,Yes,Closed,Serial Killer,China Police Department,-64.252528,114.473229
+CR0382,2025-06-12,Bangladesh,New Jersey,Lake Reneehaven,Assault,Male,61,Other,No,Under Investigation,Serial Killer,Bangladesh Police Department,-23.604174,118.948323
+CR0383,2023-08-31,Korea,Delaware,South Nicholasview,Theft,Female,26,Other,Yes,Closed,Religious Conversion,Korea Police Department,-61.501650,-58.264954
+CR0384,2022-11-13,China,North Carolina,South Natalie,Drug Offense,Other,23,Female,Yes,Closed,Political Motive,China Police Department,84.9829265,90.045216
+CR0385,2023-07-13,China,South Carolina,Port Amy,Drug Offense,Female,16,Female,No,Under Investigation,Religious Conversion,China Police Department,-33.872213,89.362667
+CR0386,2023-02-24,Korea,Iowa,South Jasonchester,Cybercrime,Other,31,Other,Yes,Open,Serial Killer,Korea Police Department,-13.796814,-163.015245
+CR0387,2025-06-21,United States,Utah,Christyhaven,Burglary,Female,22,Male,Yes,Open,Religious Conversion,United States Police Department,83.618360,40.747184
+CR0388,2024-02-06,China,Nevada,Lake Markton,Murder,Other,26,Female,No,Open,Cyber Gain,China Police Department,79.3979485,-75.169506
+CR0389,2025-03-29,Bangladesh,North Carolina,North Robinberg,Theft,Female,44,Male,Yes,Open,Political Motive,Bangladesh Police Department,-7.5438315,153.468735
+CR0390,2024-08-20,Pakistan,Wyoming,Josephview,Kidnapping,Female,34,Female,Yes,Open,Cyber Gain,Pakistan Police Department,0.4852745,-93.005210
+CR0391,2025-07-04,Pakistan,Vermont,Russellmouth,Theft,Male,73,Other,Yes,Open,Cyber Gain,Pakistan Police Department,-18.4652165,-17.820805
+CR0392,2024-09-25,Pakistan,Wisconsin,Johnmouth,Assault,Other,59,Male,Yes,Open,Lust,Pakistan Police Department,71.545340,117.284193
+CR0393,2023-04-19,United States,Louisiana,East Frankport,Cybercrime,Other,65,Other,No,Under Investigation,Religious Conversion,United States Police Department,30.9713025,-21.515825
+CR0394,2024-07-26,India,New Jersey,South Taratown,Assault,Male,41,Other,Yes,Open,Religious Conversion,India Police Department,51.4576075,5.600139
+CR0395,2023-06-28,China,Michigan,Wilkinsview,Assault,Other,32,Other,No,Closed,Greed,China Police Department,63.210896,-80.800050
+CR0396,2025-04-17,China,Missouri,Lake Krystal,Drug Offense,Female,44,Male,No,Open,Domestic Dispute,China Police Department,31.4815665,0.710819
+CR0397,2022-11-02,China,Delaware,Kennethfort,Murder,Other,44,Female,No,Open,Cyber Gain,China Police Department,-55.9260585,78.495147
+CR0398,2024-10-16,Pakistan,Louisiana,Schneidermouth,Kidnapping,Male,61,Female,Yes,Under Investigation,Cyber Gain,Pakistan Police Department,-26.023671,1.411590
+CR0399,2025-09-10,India,Oklahoma,South Drew,Burglary,Male,39,Male,No,Closed,Serial Killer,India Police Department,32.3769945,-63.702953
+CR0400,2025-07-27,India,Delaware,Justinmouth,Assault,Male,49,Male,No,Under Investigation,Revenge,India Police Department,88.4612005,-153.587744
+CR0401,2025-02-25,Korea,New York,West Anthony,Drug Offense,Female,63,Female,Yes,Under Investigation,Cyber Gain,Korea Police Department,-81.8210275,-116.476044
+CR0402,2024-04-26,China,Arizona,Joshuaberg,Fraud,Female,38,Male,Yes,Closed,Revenge,China Police Department,-4.4058955,57.648605
+CR0403,2023-10-07,Korea,Michigan,North Claire,Murder,Female,52,Male,No,Closed,Cyber Gain,Korea Police Department,39.276049,-45.419671
+CR0404,2023-10-24,Bangladesh,Colorado,Gomeztown,Assault,Other,44,Male,No,Open,Greed,Bangladesh Police Department,-41.6119395,-169.892739
+CR0405,2023-10-24,United States,Utah,Robinsonmouth,Cybercrime,Female,15,Female,No,Closed,Religious Conversion,United States Police Department,-71.664113,-40.649236
+CR0406,2024-06-30,Bangladesh,Hawaii,North Kimberly,Assault,Male,51,Female,No,Closed,Religious Conversion,Bangladesh Police Department,18.425873,-81.227841
+CR0407,2025-04-20,Bangladesh,Massachusetts,North Madison,Kidnapping,Other,32,Female,No,Under Investigation,Revenge,Bangladesh Police Department,-26.062850,-80.350544
+CR0408,2023-04-09,Bangladesh,Massachusetts,East Kristin,Theft,Other,66,Male,Yes,Closed,Cyber Gain,Bangladesh Police Department,-26.4272895,49.473575
+CR0409,2023-08-28,Korea,California,Port Amyside,Theft,Female,76,Male,Yes,Open,Serial Killer,Korea Police Department,35.020075,67.902383
+CR0410,2023-03-31,Korea,Alabama,West Kenneth,Kidnapping,Female,74,Other,No,Open,Lust,Korea Police Department,-39.756715,159.441140
+CR0411,2023-03-27,China,Kansas,Jacobsstad,Fraud,Male,45,Female,No,Under Investigation,Domestic Dispute,China Police Department,62.357917,11.659820
+CR0412,2025-04-15,United States,Georgia,West Jeffreystad,Cybercrime,Male,77,Female,Yes,Open,Lust,United States Police Department,-69.417396,98.718716
+CR0413,2025-09-20,Bangladesh,West Virginia,Cesarberg,Kidnapping,Other,41,Male,Yes,Closed,Revenge,Bangladesh Police Department,60.529108,-46.163624
+CR0414,2023-11-11,Korea,West Virginia,Nicholsview,Assault,Male,80,Other,Yes,Closed,Greed,Korea Police Department,64.0900585,101.064798
+CR0415,2023-05-19,Pakistan,New Jersey,West Virginiaton,Kidnapping,Female,22,Other,No,Under Investigation,Domestic Dispute,Pakistan Police Department,69.146488,-7.082672
+CR0416,2023-06-09,India,Wyoming,North Madisonberg,Burglary,Male,42,Other,No,Under Investigation,Revenge,India Police Department,-27.378470,-104.790805
+CR0417,2023-09-22,United States,West Virginia,North Craig,Assault,Other,27,Female,Yes,Open,Greed,United States Police Department,-77.6782105,-57.196954
+CR0418,2025-05-06,Bangladesh,Pennsylvania,Andrewtown,Burglary,Female,19,Male,Yes,Closed,Cyber Gain,Bangladesh Police Department,-28.0504785,-172.321943
+CR0419,2023-02-17,Pakistan,North Carolina,South Austinville,Drug Offense,Other,74,Female,Yes,Open,Political Motive,Pakistan Police Department,-48.011166,11.294405
+CR0420,2025-01-18,India,Florida,Douglasstad,Kidnapping,Male,78,Male,No,Closed,Cyber Gain,India Police Department,-80.662769,-75.542297
+CR0421,2022-12-29,China,California,East Vincentton,Drug Offense,Female,49,Other,No,Under Investigation,Political Motive,China Police Department,-68.8993845,-46.582577
+CR0422,2023-01-15,China,Texas,Marciaberg,Burglary,Male,70,Other,Yes,Under Investigation,Cyber Gain,China Police Department,-7.6036405,-47.720394
+CR0423,2023-04-23,Pakistan,Mississippi,South Jorge,Kidnapping,Female,27,Male,Yes,Open,Greed,Pakistan Police Department,-8.464883,107.673668
+CR0424,2025-07-21,India,Georgia,Pamelachester,Fraud,Other,44,Female,No,Closed,Greed,India Police Department,-78.563787,119.866236
+CR0425,2023-02-15,Pakistan,Indiana,Ambermouth,Cybercrime,Other,57,Female,No,Closed,Lust,Pakistan Police Department,53.732194,71.319578
+CR0426,2023-01-01,Pakistan,New Jersey,East Courtneyland,Assault,Other,17,Other,Yes,Under Investigation,Revenge,Pakistan Police Department,-76.1317005,-87.878672
+CR0427,2025-03-28,Bangladesh,Wisconsin,Burchbury,Assault,Female,72,Other,No,Closed,Revenge,Bangladesh Police Department,79.2105615,-69.331027
+CR0428,2022-10-15,Bangladesh,Colorado,Gibsonberg,Cybercrime,Other,68,Other,No,Closed,Revenge,Bangladesh Police Department,53.2794245,-108.402882
+CR0429,2023-09-08,Pakistan,South Dakota,Torresview,Burglary,Male,56,Female,Yes,Closed,Serial Killer,Pakistan Police Department,-54.214590,-81.260886
+CR0430,2023-11-16,United States,North Carolina,East Natalieburgh,Fraud,Male,55,Other,Yes,Closed,Lust,United States Police Department,-77.328988,83.093143
+CR0431,2024-10-23,China,Wyoming,Mcbridetown,Murder,Male,30,Female,No,Open,Religious Conversion,China Police Department,13.158119,61.592410
+CR0432,2022-12-30,India,Oregon,Sandersmouth,Cybercrime,Female,60,Female,No,Closed,Domestic Dispute,India Police Department,-56.4335295,-156.462839
+CR0433,2024-03-31,China,Maine,Simmonsmouth,Drug Offense,Other,80,Male,Yes,Open,Domestic Dispute,China Police Department,-88.825657,-149.671819
+CR0434,2024-07-26,Korea,Tennessee,Kennethfort,Drug Offense,Male,75,Female,No,Closed,Revenge,Korea Police Department,72.745953,-76.765179
+CR0435,2023-03-23,China,Wisconsin,North Johnchester,Drug Offense,Male,23,Female,Yes,Open,Revenge,China Police Department,26.355373,68.575272
+CR0436,2024-11-23,India,Wisconsin,Jonesfort,Assault,Other,79,Male,Yes,Closed,Revenge,India Police Department,7.905069,123.364727
+CR0437,2024-08-12,India,Montana,Farleyville,Murder,Other,19,Female,Yes,Closed,Lust,India Police Department,65.4197735,-13.510729
+CR0438,2024-02-28,United States,Georgia,South Jacob,Kidnapping,Other,22,Female,No,Open,Cyber Gain,United States Police Department,48.143350,24.665129
+CR0439,2024-01-05,India,Florida,Jamieborough,Cybercrime,Other,74,Other,No,Under Investigation,Political Motive,India Police Department,-5.002698,-30.362727
+CR0440,2023-01-18,Bangladesh,Wyoming,Craigtown,Burglary,Female,32,Male,No,Closed,Cyber Gain,Bangladesh Police Department,-14.5521635,46.851130
+CR0441,2023-05-08,India,North Carolina,Santosside,Murder,Female,27,Female,Yes,Open,Revenge,India Police Department,-14.3422705,128.911287
+CR0442,2024-11-20,India,Nebraska,New Matthew,Fraud,Other,71,Male,No,Closed,Lust,India Police Department,0.496598,59.440682
+CR0443,2025-06-08,United States,Nebraska,Aliciashire,Cybercrime,Other,58,Other,No,Closed,Serial Killer,United States Police Department,17.293227,41.448143
+CR0444,2025-05-26,United States,Louisiana,South Tyler,Murder,Male,29,Male,No,Under Investigation,Cyber Gain,United States Police Department,87.5783595,-5.011309
+CR0445,2023-10-18,India,Georgia,Lopeztown,Drug Offense,Other,21,Female,Yes,Under Investigation,Cyber Gain,India Police Department,-49.1733715,41.864882
+CR0446,2024-12-24,China,Maine,Lisaville,Burglary,Female,24,Female,No,Open,Revenge,China Police Department,52.314405,-62.299211
+CR0447,2025-06-22,Bangladesh,West Virginia,New Carlymouth,Drug Offense,Female,36,Other,Yes,Closed,Greed,Bangladesh Police Department,-7.140427,176.415802
+CR0448,2024-04-03,Bangladesh,Delaware,Ortegaburgh,Drug Offense,Female,62,Female,Yes,Open,Greed,Bangladesh Police Department,2.883296,64.288416
+CR0449,2025-01-20,Pakistan,South Carolina,New Jaimeton,Theft,Other,26,Male,Yes,Under Investigation,Domestic Dispute,Pakistan Police Department,-77.848974,-93.952478
+CR0450,2023-02-01,India,Arkansas,North Ronald,Cybercrime,Other,57,Female,No,Open,Lust,India Police Department,88.611024,156.555444
+CR0451,2024-04-28,China,Massachusetts,Mooreside,Kidnapping,Male,14,Other,Yes,Open,Political Motive,China Police Department,20.9121585,-115.425057
+CR0452,2024-09-22,United States,West Virginia,South Jeffrey,Cybercrime,Male,22,Female,No,Open,Lust,United States Police Department,-28.6805605,4.368236
+CR0453,2023-10-30,Bangladesh,Wyoming,Port Bethhaven,Theft,Female,31,Other,Yes,Under Investigation,Greed,Bangladesh Police Department,73.427030,114.240440
+CR0454,2024-10-18,India,Missouri,Stewartburgh,Drug Offense,Other,44,Female,No,Closed,Cyber Gain,India Police Department,54.839636,5.035179
+CR0455,2023-05-31,China,Tennessee,Joanneville,Assault,Other,51,Male,No,Under Investigation,Domestic Dispute,China Police Department,-89.1389365,151.014894
+CR0456,2024-08-23,Korea,Washington,Port Amanda,Drug Offense,Female,19,Female,No,Under Investigation,Revenge,Korea Police Department,-14.089851,62.465048
+CR0457,2024-12-09,Korea,Ohio,Stoneside,Cybercrime,Male,64,Other,Yes,Under Investigation,Political Motive,Korea Police Department,18.442401,14.053343
+CR0458,2025-07-15,Korea,Florida,Sharpview,Drug Offense,Female,68,Male,Yes,Under Investigation,Lust,Korea Police Department,-32.237566,-133.029664
+CR0459,2024-02-27,India,Nevada,Annafurt,Murder,Other,32,Male,No,Open,Lust,India Police Department,-15.248251,-100.582009
+CR0460,2024-04-03,China,Montana,Kristihaven,Fraud,Female,52,Female,Yes,Closed,Religious Conversion,China Police Department,-65.0027435,120.712649
+CR0461,2024-02-17,Pakistan,South Carolina,North Johnfurt,Murder,Female,19,Female,Yes,Closed,Serial Killer,Pakistan Police Department,14.668352,31.407968
+CR0462,2025-07-15,Bangladesh,Rhode Island,South Jeremyport,Fraud,Male,37,Female,Yes,Under Investigation,Greed,Bangladesh Police Department,11.158706,105.474266
+CR0463,2023-05-02,Korea,Iowa,Deborahshire,Drug Offense,Female,48,Male,Yes,Open,Cyber Gain,Korea Police Department,-64.282140,111.922265
+CR0464,2023-11-11,China,Massachusetts,South Gabrielle,Burglary,Other,76,Female,Yes,Under Investigation,Cyber Gain,China Police Department,28.000858,149.495785
+CR0465,2024-07-28,Bangladesh,Nevada,Lake Erika,Murder,Female,73,Female,No,Open,Political Motive,Bangladesh Police Department,69.832939,115.625595
+CR0466,2025-08-11,United States,Louisiana,East Amy,Drug Offense,Other,28,Male,No,Under Investigation,Domestic Dispute,United States Police Department,0.026315,124.533154
+CR0467,2025-07-04,Korea,Maine,Jasonland,Burglary,Female,10,Other,No,Open,Lust,Korea Police Department,7.8874285,131.675553
+CR0468,2025-08-24,Bangladesh,Kentucky,Katherineton,Kidnapping,Male,48,Male,No,Open,Domestic Dispute,Bangladesh Police Department,-39.105511,26.148787
+CR0469,2023-03-13,Bangladesh,Oklahoma,South Danielle,Murder,Other,31,Other,No,Closed,Greed,Bangladesh Police Department,-4.459536,-173.477035
+CR0470,2023-02-12,India,Florida,South Latoyamouth,Fraud,Other,57,Other,Yes,Closed,Domestic Dispute,India Police Department,15.711973,122.888476
+CR0471,2024-12-18,Bangladesh,Arkansas,New Anthony,Assault,Female,70,Other,Yes,Closed,Political Motive,Bangladesh Police Department,-21.8690485,41.173193
+CR0472,2023-09-20,Pakistan,Arizona,East Andrewhaven,Murder,Female,46,Female,Yes,Open,Greed,Pakistan Police Department,-33.058590,79.587817
+CR0473,2024-05-30,United States,Missouri,East Timothyview,Drug Offense,Female,80,Other,Yes,Closed,Domestic Dispute,United States Police Department,-63.9696505,148.346827
+CR0474,2023-01-10,Bangladesh,Montana,Pamtown,Kidnapping,Male,38,Male,Yes,Open,Serial Killer,Bangladesh Police Department,-19.770415,-179.967665
+CR0475,2025-05-19,Bangladesh,New Jersey,Port Benjaminton,Murder,Other,80,Female,No,Open,Revenge,Bangladesh Police Department,16.440508,137.599872
+CR0476,2023-03-31,India,Montana,East Peter,Drug Offense,Male,32,Male,No,Closed,Cyber Gain,India Police Department,-73.1107405,79.917410
+CR0477,2025-02-20,United States,North Dakota,East Sandyshire,Fraud,Other,33,Other,Yes,Open,Serial Killer,United States Police Department,23.784020,-58.415051
+CR0478,2024-05-20,United States,Minnesota,Lake Nicholasview,Kidnapping,Female,78,Other,No,Under Investigation,Greed,United States Police Department,7.085898,54.487667
+CR0479,2023-05-16,Pakistan,Tennessee,Angelaburgh,Murder,Other,58,Male,Yes,Open,Lust,Pakistan Police Department,5.0185335,3.635716
+CR0480,2025-02-16,Korea,Virginia,Reyeshaven,Kidnapping,Other,62,Female,Yes,Open,Lust,Korea Police Department,9.885109,44.027885
+CR0481,2025-08-11,United States,New Hampshire,New Josephburgh,Cybercrime,Male,57,Other,Yes,Under Investigation,Revenge,United States Police Department,-87.464358,36.471544
+CR0482,2023-01-19,United States,Missouri,Burtonmouth,Burglary,Female,16,Male,No,Under Investigation,Religious Conversion,United States Police Department,-59.362979,26.794323
+CR0483,2025-03-10,Pakistan,Connecticut,Joneschester,Theft,Other,72,Female,No,Closed,Greed,Pakistan Police Department,53.2616325,149.227224
+CR0484,2022-12-26,United States,Kentucky,East Sabrina,Burglary,Female,16,Other,No,Under Investigation,Cyber Gain,United States Police Department,4.433458,-22.659180
+CR0485,2022-12-28,China,Iowa,Williamsmouth,Drug Offense,Other,49,Other,Yes,Closed,Domestic Dispute,China Police Department,38.4132245,-62.558729
+CR0486,2024-10-29,Bangladesh,Alaska,Tommyborough,Fraud,Other,17,Female,No,Open,Greed,Bangladesh Police Department,-17.644636,101.519755
+CR0487,2024-07-09,United States,South Carolina,Christinechester,Drug Offense,Female,39,Other,Yes,Open,Greed,United States Police Department,-20.351266,-111.673162
+CR0488,2025-05-01,Korea,Kentucky,Michelleview,Assault,Female,77,Other,Yes,Open,Political Motive,Korea Police Department,-19.610010,-61.706596
+CR0489,2024-05-15,India,New Jersey,Port Michaelside,Fraud,Female,44,Male,Yes,Closed,Serial Killer,India Police Department,-79.2672305,-95.386771
+CR0490,2023-07-14,United States,Minnesota,Kaneborough,Cybercrime,Other,15,Male,No,Open,Religious Conversion,United States Police Department,77.481662,-100.573559
+CR0491,2024-06-16,India,Oregon,West John,Assault,Male,23,Other,No,Closed,Cyber Gain,India Police Department,78.7620385,-40.987808
+CR0492,2024-01-27,Korea,Kentucky,East Ebony,Fraud,Male,67,Male,Yes,Under Investigation,Cyber Gain,Korea Police Department,80.1459025,-161.276817
+CR0493,2025-05-21,China,Idaho,Lake Robin,Murder,Male,47,Female,No,Closed,Lust,China Police Department,5.479763,-157.573578
+CR0494,2023-10-18,Korea,Mississippi,New Danielton,Cybercrime,Male,49,Male,Yes,Under Investigation,Serial Killer,Korea Police Department,-60.108406,-106.965057
+CR0495,2023-05-02,China,New Mexico,Ryanchester,Fraud,Other,77,Male,No,Open,Cyber Gain,China Police Department,-64.0575045,109.722449
+CR0496,2023-08-13,United States,Nebraska,North Matthewshire,Murder,Male,74,Female,Yes,Open,Greed,United States Police Department,85.024719,13.708890
+CR0497,2025-03-08,China,Arizona,West Scottfort,Assault,Female,48,Female,No,Under Investigation,Serial Killer,China Police Department,66.1651165,-23.841271
+CR0498,2023-10-16,Bangladesh,Hawaii,East Kimberlyton,Fraud,Other,42,Female,Yes,Under Investigation,Serial Killer,Bangladesh Police Department,63.4375195,61.890271
+CR0499,2023-03-24,India,Wyoming,South Jeremyton,Burglary,Female,39,Female,Yes,Under Investigation,Serial Killer,India Police Department,-77.309223,-174.554363
+CR0500,2024-10-14,China,Alaska,West Mitchellview,Murder,Male,31,Female,No,Under Investigation,Political Motive,China Police Department,-18.3371265,98.416380
