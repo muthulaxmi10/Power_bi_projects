@@ -1,6 +1,5 @@
-![Crime Dashboard](crime.jpg)
 <p align="center">
-  <img src="crime.jpg"  width="700"/>
+  <img src="crime.jpg"  width="1000"/>
 </p>
 # 🕵️‍♂️ Crime Rate Analysis Dashboard
 **🎯 Objective**
