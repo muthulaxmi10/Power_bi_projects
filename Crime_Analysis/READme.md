@@ -1,7 +1,9 @@
 <p align="center">
   <img src="crime.jpg"  width="1000"/>
 </p>
+
 # 🕵️‍♂️ Crime Rate Analysis Dashboard
+
 **🎯 Objective**
 
 **The main objectives of this project are:**
