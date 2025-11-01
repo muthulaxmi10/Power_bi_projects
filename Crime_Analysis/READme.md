@@ -1,6 +1,6 @@
-****🕵️‍♂️ Crime Rate Analysis Dashboard****
-
 ![Crime Dashboard](crime.jpg)
+
+****🕵️‍♂️ Crime Rate Analysis Dashboard****
 
 **🎯 Objective**
 
