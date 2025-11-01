@@ -1,7 +1,7 @@
-**🕵️‍♂️ Crime Rate Analysis Dashboard**
+***🕵️‍♂️ Crime Rate Analysis Dashboard***
 🎯 Objective
 
-The main objectives of this project are:
+**The main objectives of this project are:**
 
 To identify trends in criminal activity over time.
 
