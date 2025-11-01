@@ -1,10 +1,8 @@
 ![Crime Dashboard](crime.jpg)
-# 🕵️‍♂️ Crime Rate Analysis Dashboard
-
 <p align="center">
-  <img src="images/crime.jpg"  width="700"/>
+  <img src="crime.jpg"  width="700"/>
 </p>
-
+# 🕵️‍♂️ Crime Rate Analysis Dashboard
 **🎯 Objective**
 
 **The main objectives of this project are:**
