@@ -29,6 +29,8 @@ Modeling	Star Schema (Fact & Dimension Tables)
 
 A Star Schema model was created with one Fact Table and multiple Dimension Tables.
 
+![Crime Dimension](Dimension.png)
+
 Fact Table
 
 fact_crime → stores key measures and foreign keys to dimension tables
