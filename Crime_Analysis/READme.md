@@ -2,11 +2,8 @@
 # 🕵️‍♂️ Crime Rate Analysis Dashboard
 
 <p align="center">
-  <img src="images/crime.jpg" alt="Crime Dashboard" width="700"/>
+  <img src="images/crime.jpg"  width="700"/>
 </p>
-
-
-****🕵️‍♂️ Crime Rate Analysis Dashboard****
 
 **🎯 Objective**
 
