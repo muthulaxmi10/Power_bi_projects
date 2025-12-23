@@ -139,5 +139,6 @@ It showcases strong skills in data analytics, visualization, and business intell
 
 📎 Author
 
-Muthulaxmi
+Muthulaxmi  Lakhani
+
 Aspiring Data Analyst | Power BI | SQL | Python
