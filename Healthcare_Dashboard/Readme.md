@@ -138,10 +138,10 @@ Created professional dashboards suitable for business stakeholders
 ![Patient Demographics](Page1.png)
 
 ### Financial Dashboard
-![Financial Dashboard](Page2.png)
+![Financial Dashboard](Page3.png)
 
 ### Doctor Performance Dashboard
-![Doctor Performance](Page3.png)
+![Doctor Performance](Page2.png)
 
 
 📌 Conclusion
