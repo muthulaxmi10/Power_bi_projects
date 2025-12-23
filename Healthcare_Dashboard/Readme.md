@@ -132,6 +132,18 @@ Developed insights into healthcare operations and financial performance
 
 Created professional dashboards suitable for business stakeholders
 
+## 📸 Dashboard Screenshots
+
+### Patient Demographics Dashboard
+![Patient Demographics](Page1.png)
+
+### Financial Dashboard
+![Financial Dashboard](Page2.png)
+
+### Doctor Performance Dashboard
+![Doctor Performance](Page3.png)
+
+
 📌 Conclusion
 
 This project demonstrates how healthcare data can be effectively analyzed using Power BI to uncover trends, monitor performance, and support strategic decisions.
